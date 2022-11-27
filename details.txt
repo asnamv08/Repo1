@@ -1,0 +1,3 @@
+Name:Asna
+Course:MCA
+Duration:2Years
